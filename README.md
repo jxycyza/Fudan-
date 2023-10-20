@@ -25,8 +25,8 @@
 打开脚本文件，找到以下行：
 
 ```python
-usrname = '22301170010'
-password = 'mQy1623457864'
+usrname = ''
+password = ''
 ```
 
 将上述行中的`usrname`和`password`的值更改为您自己的账号和密码。
